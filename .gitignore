@@ -14,3 +14,15 @@ Resources/Data/Raw/ml-latest/genome-tags.csv
 Resources/Data/Raw/ml-latest/genome-scores.csv
 
 Resources/Data/Raw/ml-latest/ratings.csv
+
+Resources/Pickles/user_ratings.pickle
+
+Resources/Pickles/director_feature_dummied.pickle
+
+Resources/Pickles/director_feature_dummied.pickle
+
+Resources/Pickles/directors_feature_dummied.pickle
+
+Resources/Pickles/thing_u.pickle
+
+Resources/Pickles/tags_feature_dummied.pickle
